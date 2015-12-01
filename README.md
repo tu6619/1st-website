@@ -1,2 +1,2 @@
-# 1st_website
+# 1st Website
 This is is my first ever HTML/CSS website.
